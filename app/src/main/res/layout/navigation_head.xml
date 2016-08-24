@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:background="@color/mYellow">
+
+
+
+    <com.hc.zhdaily.view.CircleImageText
+        android:id="@+id/circleimagetext"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:background="@color/mYellow"></com.hc.zhdaily.view.CircleImageText>
+
+
+
+    <com.hc.zhdaily.view.IconTextButton
+        android:id="@+id/button2"
+        android:text="我的收藏"
+        android:textSize="14dp"
+        android:background="@color/mYellow"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+
+    <com.hc.zhdaily.view.IconTextButton
+        android:id="@+id/button3"
+        android:text="离线下载"
+        android:textSize="14dp"
+        android:background="@color/mYellow"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button2"
+        android:layout_toEndOf="@+id/button2" />
+
+</RelativeLayout>

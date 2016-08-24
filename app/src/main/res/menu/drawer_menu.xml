@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" android:id="@+id/homeGroup">
+        <item
+            android:id="@+id/home"
+            android:title="首页"
+            android:icon="@drawable/home"
+            android:checked="true" />
+
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/myGroup01">
+        <item
+            android:id="@+id/psych"
+            android:icon="@drawable/dot"
+            android:title="日常心理学" />
+        <item
+            android:id="@+id/recommend"
+            android:icon="@drawable/dot"
+            android:title="用户推荐日常" />
+        <item
+            android:id="@+id/movie"
+            android:icon="@drawable/dot"
+            android:title="电影日报" />
+        <item
+            android:id="@+id/kek"
+            android:icon="@drawable/dot"
+            android:title="不许无聊" />
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/myGroup02">
+        <item
+            android:id="@+id/s"
+            android:icon="@drawable/dot"
+            android:title="设计日报" />
+        <item
+            android:id="@+id/i"
+            android:icon="@drawable/dot"
+            android:title="大公司日报" />
+        <item
+            android:id="@+id/n"
+            android:icon="@drawable/dot"
+            android:title="财经日报" />
+        <item
+            android:id="@+id/gu"
+            android:icon="@drawable/dot"
+            android:title="互联网安全"
+            />
+    </group>
+
+
+    <group android:checkableBehavior="single" android:id="@+id/myGroup03">
+        <item
+            android:id="@+id/ht"
+            android:icon="@drawable/dot"
+            android:title="开始游戏"
+            />
+        <item
+            android:id="@+id/cr"
+            android:icon="@drawable/dot"
+            android:title="音乐日报"
+            />
+        <item
+            android:id="@+id/oo"
+            android:icon="@drawable/dot"
+            android:title="动漫日报"
+            />
+        <item
+            android:id="@+id/ae"
+            android:icon="@drawable/dot"
+            android:title="体育日报"
+            />
+    </group>
+
+</menu>
