@@ -23,7 +23,7 @@ https://github.com/iKrelve/KuaiHu/blob/master/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%
 
 
 
-2.首页，顶部下滑刷新，底部上滑加载更多：
+2.首页，图片轮播，顶部下滑刷新，底部上滑加载更多：
 
 ![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/main.gif?raw=true)
 
