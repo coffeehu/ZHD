@@ -19,7 +19,7 @@ https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E
 三、功能介绍：
 
 
-1.启动界面:
+1.启动界面，实现了缩放的动画，图片保存本地，每日更新；:
 
 ![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/splash.gif?raw=true)
 
