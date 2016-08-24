@@ -1,5 +1,14 @@
 知乎日报，一个轻量级的应用，适合用来练手。
 
+下载二维码：
+
+![image](http://pan.baidu.com/share/qrcode?w=148&h=148&url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1dF7IVtR%26qrfrom%3D1%26qrtype%3Dapk)
+
+
+
+
+
+
 一、API 的获取：
 https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90
 
