@@ -1,7 +1,7 @@
 知乎日报，一个轻量级的应用，适合用来练手。
 
 一、API 的获取：
-https://github.com/iKrelve/KuaiHu/blob/master/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5API.md
+https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90
 
 
 二、实现：
@@ -17,6 +17,8 @@ https://github.com/iKrelve/KuaiHu/blob/master/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%
 
 
 三、功能介绍：
+
+
 1.启动界面:
 
 ![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/splash.gif?raw=true)
