@@ -12,7 +12,7 @@ https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E
 
 3.Json数据解析：Gson
 
-4、界面：RecyclerView、DrawerLayout 等
+4、界面：RecyclerView、DrawerLayout、WebView、自定义圆形图片等
 
 
 
@@ -35,7 +35,7 @@ https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E
 ![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/navigation.gif?raw=true)
 
 
-4.内容页,视差滚动，顶部标题栏根据条件渐隐或突显：
+4.内容页,视差滚动，顶部标题栏根据滑动情况实现渐隐或突显，WebView 加载内容：
 
 ![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/content.gif?raw=true)
 
