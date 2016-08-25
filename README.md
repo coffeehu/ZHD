@@ -2,7 +2,7 @@
 
 下载二维码：
 
-![image](http://pan.baidu.com/share/qrcode?w=148&h=148&url=http%3A%2F%2Fpan.baidu.com%2Fs%2F1dF7IVtR%26qrfrom%3D1%26qrtype%3Dapk)
+![image](https://github.com/coffeehu/ZHD/blob/master/readmeImages/2.png?raw=true)
 
 
 
